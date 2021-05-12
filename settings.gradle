@@ -1,0 +1,3 @@
+include ':dbresolver'
+include ':app'
+rootProject.name = "TestDB"
